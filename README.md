@@ -1,1 +1,1 @@
-# visualtips.github.io
+#Survey Data Visualization Tips
